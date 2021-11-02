@@ -845,7 +845,7 @@
           "options__3": {
             "label": "Bottom"
           },
-          "label": "Desktop text position"
+          "label": "Desktop text position(vertical)"
         },
         "show_text_box": {
           "label": "Show text box on desktop"
