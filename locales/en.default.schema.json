@@ -845,6 +845,9 @@
           "options__3": {
             "label": "Bottom"
           },
+          "options__4": {
+            "label": "Left"
+          },
           "label": "Desktop text position"
         },
         "show_text_box": {
