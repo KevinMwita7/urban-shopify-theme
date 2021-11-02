@@ -10,6 +10,12 @@
             "heading_size": "large"
           }
         },
+        "6efdf3e7-30de-4ec1-921d-7178617f0ba4": {
+          "type": "text",
+          "settings": {
+            "text": "Your subtitle text will go here friend"
+          }
+        },
         "button": {
           "type": "buttons",
           "settings": {
@@ -24,6 +30,7 @@
       },
       "block_order": [
         "heading",
+        "6efdf3e7-30de-4ec1-921d-7178617f0ba4",
         "button"
       ],
       "settings": {
