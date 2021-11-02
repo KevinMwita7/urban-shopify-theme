@@ -37,7 +37,7 @@
         "image": "shopify:\/\/shop_images\/parastoo-maleki-ysROAKYLI0s-unsplash.jpg",
         "image_height": "large",
         "adapt_height_first_image": false,
-        "desktop_text_box_position": "flex-end",
+        "desktop_text_box_position": "flex-start",
         "show_text_box": true,
         "image_overlay_opacity": 50,
         "color_scheme": "accent-1",
