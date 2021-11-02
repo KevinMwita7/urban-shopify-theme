@@ -78,7 +78,7 @@
       >
     </div>
   {%- endif -%}
-  <div class="banner__content banner__content--{{ section.settings.desktop_text_box_position }} page-width">
+  <div class="banner__content banner__content--{{ section.settings.vertical_desktop_text_box_position }} page-width">
     <div class="banner__box color-{{ section.settings.color_scheme }}">
       {%- for block in section.blocks -%}
         {%- case block.type -%}
@@ -151,23 +151,23 @@
     },
     {
       "type": "select",
-      "id": "desktop_text_box_position",
+      "id": "vertical_desktop_text_box_position",
       "options": [
         {
           "value": "flex-start",
-          "label": "t:sections.image-banner.settings.desktop_text_box_position.options__1.label"
+          "label": "t:sections.image-banner.settings.vertical_desktop_text_box_position.options__1.label"
         },
         {
           "value": "center",
-          "label": "t:sections.image-banner.settings.desktop_text_box_position.options__2.label"
+          "label": "t:sections.image-banner.settings.vertical_desktop_text_box_position.options__2.label"
         },
         {
           "value": "flex-end",
-          "label": "t:sections.image-banner.settings.desktop_text_box_position.options__3.label"
+          "label": "t:sections.image-banner.settings.vertical_desktop_text_box_position.options__3.label"
         }
       ],
       "default": "center",
-      "label": "t:sections.image-banner.settings.desktop_text_box_position.label"
+      "label": "t:sections.image-banner.settings.vertical_desktop_text_box_position.label"
     },
     {
       "type": "checkbox",
