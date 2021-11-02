@@ -321,3 +321,7 @@
 .banner__heading {
   margin-bottom: 0;
 }
+
+  .button--curved {
+	border-radius: 50px
+  }
