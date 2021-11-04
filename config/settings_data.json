@@ -7,9 +7,10 @@
     "colors_outline_button_labels": "#121212",
     "colors_background_1": "#FFFFFF",
     "colors_background_2": "#F3F3F3",
-    "type_header_font": "assistant_n4",
-    "heading_scale": 125,
+    "type_header_font": "sans-serif",
+    "heading_scale": 120,
     "type_body_font": "assistant_n4",
+    "body_scale": 100,
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
