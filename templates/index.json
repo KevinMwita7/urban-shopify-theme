@@ -3,17 +3,17 @@
     "image_banner": {
       "type": "image-banner",
       "blocks": {
+        "6efdf3e7-30de-4ec1-921d-7178617f0ba4": {
+          "type": "text",
+          "settings": {
+            "text": "New Arrivals"
+          }
+        },
         "heading": {
           "type": "heading",
           "settings": {
             "heading": "Talk about your brand",
             "heading_size": "large"
-          }
-        },
-        "6efdf3e7-30de-4ec1-921d-7178617f0ba4": {
-          "type": "text",
-          "settings": {
-            "text": "Your subtitle text will go here friend"
           }
         },
         "button": {
@@ -29,8 +29,8 @@
         }
       },
       "block_order": [
-        "heading",
         "6efdf3e7-30de-4ec1-921d-7178617f0ba4",
+        "heading",
         "button"
       ],
       "settings": {
