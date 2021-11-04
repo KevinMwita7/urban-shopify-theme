@@ -11,6 +11,7 @@
     "heading_scale": 120,
     "type_body_font": "assistant_n4",
     "body_scale": 100,
+    "sold_out_badge_color_scheme": "inverse",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
